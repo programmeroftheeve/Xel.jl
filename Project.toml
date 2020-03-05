@@ -1,0 +1,4 @@
+name = "Xel"
+uuid = "20c2f0e5-2caf-41fa-b1ae-aceb04f0b2ec"
+authors = ["Tim Bradt <bradt@signatureresearchinc.com>"]
+version = "0.1.0"
